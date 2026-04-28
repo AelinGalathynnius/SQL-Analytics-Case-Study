@@ -27,3 +27,4 @@ sql-data-analytics-project/
 ├── docs/
 ├── dashboards/
 ├── assets/
+
