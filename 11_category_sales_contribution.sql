@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Part-to-Whole Analysis
+Category Sales Contribution 
 ===============================================================================
 Purpose:
     - To compare performance or metrics across dimensions or time periods.
