@@ -3,7 +3,7 @@
 
 
 
-# 🚀 SQL Data Analytics Project
+
 
 ### 📊 Turning raw data into business insights with SQL
 
